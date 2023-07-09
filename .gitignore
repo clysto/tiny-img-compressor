@@ -1,0 +1,5 @@
+*.dat
+*.pgm
+.DS_Store
+.vscode
+*.gz
